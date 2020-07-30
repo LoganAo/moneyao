@@ -1,0 +1,23 @@
+{
+  "name": "moneyao",
+  "version": "1.0.0",
+  "description": "api to make transfer for any national bank",
+  "main": "homemoneyao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubinaldod/moneyao.git"
+  },
+  "author": "Etu code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubinaldod/moneyao/issues"
+  },
+  "homepage": "https://github.com/Rubinaldod/moneyao#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
