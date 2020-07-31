@@ -9,14 +9,14 @@ routes.post('/post/transfer', (res, req)=>{
 })
 
 routes.get('/', (res, req) => { 
-    //Returns an array contains all users data
+    //Returns an array contains all user's data
 })
 routes.get('/user/:id', (res, req) => {
     //Returns an object with a specific user credentials, without no password
 })
 
 routes.get('/user/:id/credit', (res, req) => {
-    //Returns the value in account and user bank 
+    //Returns the value in account and user's bank 
 })
 
 
