@@ -1,21 +1,23 @@
 //IMPORT'S SYSTEM
-
+// const cors = require('cors')
 const express = require ('express')
 const app = express()
-const bodyParser = require('body-parser')
+
 
 //OUR IMPORTS 
+
 const routes = require('./routes/routes')
+const PORT = 3000
 
 //APP CONFIGURATION
+// app.use(cors())
 
-const port = 3000
-app.use(bodyParser.json())
-app.use(bodyParser.urlencode({extended: false}))
+app.use(app.json())
+app.use(app.urlencode({extended: false}))
 
 //APP ROUTES ROOT
-app.use('/', routes)
-app.use('/post',routes)
+app.use('/status', status)
+app.use('/transfer',transfer)
 
 
- app.listen(port)
+ app.listen(PORT)

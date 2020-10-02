@@ -4,7 +4,7 @@
   "description": "api to make transfer for any national bank",
   "main": "app.js",
   "scripts": {
-    "start":"nodemon ./api/app.js" 
+    "start":"nodemon ./app.js" 
   },
   "repository": {
     "type": "git",
