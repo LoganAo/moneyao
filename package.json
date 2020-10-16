@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LoganAo/moneyao/issues"
   },
-  "homepage": "https://github.com/LoganAo/moneyao#readme"
+  "homepage": "https://github.com/LoganAo/moneyao#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0"
+  }
 }
