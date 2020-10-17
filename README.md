@@ -10,11 +10,11 @@
 
 * Dinamizar o estado tecnológico no país.
 
-* Dar vida a muitos projectos inovadores, mas que nõ tem apoio para aultilização de dados e viabilidade com aplicativos iremediários, Como o [multicaixa express](https://play.google.com/store/apps/details?id=com.sibsint.mcxwallet&hl=pt) .
+* Dar vida a muitos projectos inovadores, mas que não tem apoio para aultilização de dados e viabilidade com aplicativos iremediários, Como o [multicaixa express](https://play.google.com/store/apps/details?id=com.sibsint.mcxwallet&hl=pt) .
 
-* Evitar Burlas na internet de vido a população pouco assídua no que concerne, os pagamentos via WhatsApp, contudo essa api permitirá que aplicativos conceituados, possam usar essa api, e evitar problemas de burla.
+* Evitar Burlas na internet devido a população pouco assídua no que concerne, os pagamentos via WhatsApp, contudo essa api permitirá que aplicativos conceituados, possam usar essa api, e evitar problemas de burla.
 
-## Nota:
+## Filosofia:
 
 * Comenta todo seu código em inglês.
   * Não nos explica código, comente o que ele faz.
@@ -22,7 +22,7 @@
 
 ## Regras:
 
-* 1. Segue o Princípio S.O.L.I.D, não crie arquivos atoa.
+  1. Segue o Princípio S.O.L.I.D, não crie arquivos atoa.
   2. Não quebre a primeira regra.  
 
 
